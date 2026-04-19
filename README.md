@@ -19,7 +19,8 @@ This project demonstrates basic game logic, DOM manipulation, and responsive des
 ---
 
 ## 📸 Preview
-     <img width="1807" height="895" alt="image" src="https://github.com/user-attachments/assets/1c2f79b0-262b-4f76-9c52-38a3b6dab192" />
+     <img width="1807" height="895" alt="image" src="https://github.com/user-attachments/assets/e61612f1-0518-443b-a449-29f6e03b5f09" />
+
 
 
 ## 🧠 How It Works
