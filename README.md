@@ -6,7 +6,6 @@ This project demonstrates basic game logic, DOM manipulation, and responsive des
 ## 🚀 Live demo:
 
 
-
 ## 🚀 Features
 
 * 🟢 Two-player mode (X vs O)
@@ -17,12 +16,6 @@ This project demonstrates basic game logic, DOM manipulation, and responsive des
 * 🎨 Clean and modern UI with gradient background
 
 ---
-
-## 📸 Preview
-     <img width="1807" height="895" alt="image" src="https://github.com/user-attachments/assets/e61612f1-0518-443b-a449-29f6e03b5f09" />
-
-
-
 ## 🧠 How It Works
 
 * The game uses a **JavaScript array** to track the board state.
